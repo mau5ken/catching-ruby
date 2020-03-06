@@ -1,6 +1,5 @@
 ---
 published: false
 ---
-## A New Post
+## Condicionales, tomando decisiones
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
