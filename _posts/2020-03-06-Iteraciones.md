@@ -15,5 +15,5 @@ En la lección anterior conocimos algo sobre condicionales, pero ahora aprendere
 
 Repasemos:
 1.Creamos una variable llamada `contador`y le asignamos un número entero `1`
-2.Despues usamos nuestro iterador `while` para verificar si `contador`(1) es menor que `11`
-3.
+2.Despues usamos nuestro iterador `while` para verificar si `contador`(1) es menor que `11`. Como `1` si es menor que `11` esta condición evalúa a `true`
+3.  
