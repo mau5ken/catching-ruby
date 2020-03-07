@@ -15,6 +15,7 @@ En la lección anterior conocimos algo sobre condicionales, pero ahora aprendere
 
 Repasemos:
 
+<div class="activity">
 1. Creamos una variable llamada `contador`y le asignamos un número entero `1`.
 
 2. Despues usamos nuestro iterador `while` para verificar si `contador`(1) es menor que `11`. Como `1` si es **menor** que `11` esta condición evalúa a `true`
@@ -24,3 +25,4 @@ Repasemos:
 4. A nuestra variable `contador` le asignamos un número cada vez que `contador`sea **menor** que 11
 
 5. El programa terminar con un `end`y en consola se imprime nuestros números en secuencia.
+</div>
