@@ -2,6 +2,6 @@
 published: true
 categories: Level1
 ---
-## A New Post
+## Iterando ando
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Iterando en programación es conocida como una de las cosas mas importantes a la hora de desarrollar programas. Iterar nos permite poder repetir un programa varias veces sin necesidad de ejecutar lo muchas veces o repetir código. Veamos un ejemplo de como funciona:
