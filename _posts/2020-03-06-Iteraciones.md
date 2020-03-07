@@ -18,7 +18,7 @@ Repasemos:
 <div class="activity">
 1. Creamos una variable llamada `contador`y le asignamos un número entero `1`.
 
-2. Despues usamos nuestro iterador `while` para verificar si `contador`(1) es menor que `11`. Como `1` si es **menor** que `11` esta condición evalúa a `true`
+2. Despues usamos nuestro iterador `while` para verificar si `contador` es menor que `11`. Como `1` si es **menor** que `11` esta condición evalúa a `true`
 
 3. Usamos `puts` para imprimir en consola nuestra secuencia de números
 
