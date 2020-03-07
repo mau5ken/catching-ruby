@@ -30,3 +30,9 @@ Repasemos de nuevo lo que ha pasado en el bloque de arriba:
 Veamos el siguiente ejemplo:
 
 <img src="https://res.cloudinary.com/craftwebs/image/upload/v1583547905/Captura_de_pantalla_2020-03-06_a_la_s_20.22.08_suxn10.png">
+
+<div class="activity"> 
+ 💻 Ejecuta el código debajo y logra entender como funciona el código.
+</div>
+
+<iframe src="https://paiza.io/projects/e/cw4U1uV8I3QGZyxFl2J9OQ?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
