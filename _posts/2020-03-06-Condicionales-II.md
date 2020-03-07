@@ -1,5 +1,6 @@
 ---
 published: false
+Categories: level1
 ---
 ## A New Post
 
