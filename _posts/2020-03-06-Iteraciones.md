@@ -12,3 +12,8 @@ Iterando en programación es conocida como una de las cosas mas importantes a la
 En la lección anterior conocimos algo sobre condicionales, pero ahora aprenderemos a conectar condicionales con loop's. En este caso aprenderemos sobre el `while` loop, veamos un ejemplo de como funciona:
 
 <iframe src="https://paiza.io/projects/e/7nQGDpWCUnbeRFecPRNPLQ?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+
+Repasemos:
+1.Creamos una variable llamada `contador`y le asignamos un número entero `1`
+2.Despues usamos nuestro iterador `while` para verificar si `contador`(1) es menor que `11`
+3.
