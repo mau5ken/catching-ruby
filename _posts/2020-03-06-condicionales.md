@@ -43,3 +43,12 @@ Tenemos dos variables, uno `veinte` y otro llamado `treinta`, ambos se les asign
 Usamos nuestro `if` con la misma lógica del ejercicio arriba pero ahora tenemos dos `puts`
 Si notaste, tenemos el `else` que solo se va a ejecutar si la primera condicional **no** se cumple
 En consola, se imprime `”soy menor”`.
+
+<div class="activity"> 
+ 💻 La práctica hace al maestro, en base a lo que hemos aprendido, en el editor abajo, crea tus propias condicionales. Recuerda de usar variables para determinar que condicional se cumplirá.
+</div>
+
+
+Embed code: 
+<iframe src="https://paiza.io/projects/e/z4klPIE6_kqiebKpxfz-Ow?theme=twilight" width="100%" height="500" scrolling="no" seamless="seamless"></iframe>
+
