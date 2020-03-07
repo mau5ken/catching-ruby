@@ -29,4 +29,4 @@ Repasemos de nuevo lo que ha pasado en el bloque de arriba:
 
 Veamos el siguiente ejemplo:
 
-![]({{site.baseurl}}/https://res.cloudinary.com/craftwebs/image/upload/v1583547905/Captura_de_pantalla_2020-03-06_a_la_s_20.22.08_suxn10.png)
+<img src="https://res.cloudinary.com/craftwebs/image/upload/v1583547905/Captura_de_pantalla_2020-03-06_a_la_s_20.22.08_suxn10.png">
