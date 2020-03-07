@@ -13,6 +13,7 @@ En todos los lenguajes de programación podemos hacer cosas de matemáticas y en
 - `%`   Modulo
 - `<`  Menor que
 - `>`  Mayor que
+- `**` Exponentes
 
 <br>
 <br>
