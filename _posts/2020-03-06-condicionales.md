@@ -16,9 +16,17 @@ En ruby, para poder ejecutar una condición, se utiliza el `if`, veamos como fun
 
 Repasemos de nuevo lo que ha pasado en el bloque de arriba:
 
-1. - Tenemos dos variables (x & y) a los cuales se les asigna un número cada uno.
-2. - Después usamos el condicional `if` acompañado de nuestras dos variables
-3. - Si notaste, tenemos un `>` que indica **mayor que** (consulta la tabla de operadores aqui)
-4. - Dentro de nuestro `if` tenemos un `puts "hola mundo"`, lo que indica que si **x** es mayor a **y** entonces se imprimirá en la consola “Hola mundo
-5. - Siempre que se use una condicional se usa el `end` que indica que el `if` se cierra. Si no se coloca un `end` ruby tomará esto como error.
+1.- Tenemos dos variables (x & y) a los cuales se les asigna un número cada uno.
+2.- Después usamos el condicional `if` acompañado de nuestras dos variables.
+3.- Si notaste, tenemos un `>` que indica **mayor que** (consulta la tabla de operadores aqui).
+4.- Dentro de nuestro `if` tenemos un `puts "hola mundo"`, lo que indica que si **x**(30) es mayor a **y**(20) entonces se imprimirá en la consola “Hola mundo”.
+5.- Siempre que se use una condicional se usa el `end` que indica que el `if` se cierra. Si no se coloca un `end` ruby tomará esto como error.
 
+
+## Else, casos contrarios
+
+¡Muy bien! El concepto de If ha quedado explicado, es bastante sencillo de entender estos conceptos. Ahora expliquemos el `else`. ¿Que es el `else`? Bueno tomando el ejemplo de las decisiones, a veces queremos tomar una decision contraria, es decir, un plan b. 
+
+Veamos el siguiente ejemplo:
+
+![]({{site.baseurl}}/https://res.cloudinary.com/craftwebs/image/upload/v1583547905/Captura_de_pantalla_2020-03-06_a_la_s_20.22.08_suxn10.png)
