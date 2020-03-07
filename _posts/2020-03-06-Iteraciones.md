@@ -1,6 +1,6 @@
 ---
 published: true
-categories: Level2
+categories: Level1
 ---
 ## A New Post
 
